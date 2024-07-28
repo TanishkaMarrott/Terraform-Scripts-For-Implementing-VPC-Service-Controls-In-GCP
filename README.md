@@ -1,4 +1,4 @@
-# Terraform VPC Service Controls
+# VPC Service Controls in GCP Using Terraform
 
 This repository contains Terraform scripts to implement VPC Service Controls on Google Cloud Platform (GCP).
 
