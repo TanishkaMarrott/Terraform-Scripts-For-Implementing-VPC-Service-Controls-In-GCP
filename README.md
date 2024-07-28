@@ -86,9 +86,11 @@ Access levels specify the conditions under which requests to GCP resources are a
 
 To remove the resources created by Terraform, run:
 
-    `
+    
+    ```bash
     terraform destroy
-    `
+    ```
+    
 
 ## License
 
